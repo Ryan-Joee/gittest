@@ -7,3 +7,4 @@ debug.log
 !/config/settings.json
 # 忽略所有的.log文件
 *.log
+*.java
