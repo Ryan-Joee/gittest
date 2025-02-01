@@ -1,0 +1,9 @@
+debug.log
+/logs/
+*.log
+*.txt
+!README.txt
+/config/*
+!/config/settings.json
+# 忽略所有的.log文件
+*.log
